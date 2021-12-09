@@ -1,6 +1,6 @@
-#Ceci est un titre
-##Ceci est un sous-titre
-###Ceci est un sous sous ... Vous avez compris l'idée
+# Ceci est un titre
+## Ceci est un sous-titre
+### Ceci est un sous sous ... Vous avez compris l'idée
 
 Je peux mettre des textes **en gras**
 Ou en *italique* et pourquoi pas ***les ddeux***? C'est comme je veux
@@ -21,3 +21,4 @@ Ceci est un bloc de code
 ```
 
 Et pour finir, voici [un lien](https://guides.github.com/mastering-markdown/) pour devenir un as du Markdown.
+
